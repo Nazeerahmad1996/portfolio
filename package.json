@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.2.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "mdbreact": "^4.9.0",
     "react": "^16.2.0",
     "react-bootstrap": "^1.0.0-beta.5",
